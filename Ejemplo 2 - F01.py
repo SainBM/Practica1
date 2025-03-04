@@ -2,7 +2,7 @@ frutas = ["manzana", "plátano", "naranja"]
 
 
 frutas.append("pera")
-
+g
 
 print("Lista de frutas:", frutas)
 
